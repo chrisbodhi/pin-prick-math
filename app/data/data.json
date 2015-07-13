@@ -1,0 +1,29 @@
+{
+  2015: {
+    "equinox": {
+      {
+        "fall": "September 23 08:20",
+        "spring": "March 20	22:45"
+      }
+    },
+    "solstice": 
+      {
+        "summer": "June 21 16:38",
+        "winter": "December 22 04:48"
+      }
+  },
+  
+  2016: {
+    "equinox": {
+      {
+        "fall": "September 22 14:21",
+        "spring": "March 20	04:30"
+      }
+    },
+    "solstice": 
+      {
+        "summer": "June 20 22:34",
+        "winter": "December 21 10:44"
+      }
+  }  
+}
